@@ -9,12 +9,12 @@ console look — no phone photos of the monitor.
 2. Power on. Open the boot menu (often **F10**, **F12**, or **Esc**; BIOS setup
    often **F2** or **Del** — varies by vendor).
 
-![Intel NUC splash — F10 boot menu](assets/install/01-nuc-splash.jpg)
+   ![Intel NUC splash — F10 boot menu](assets/install/01-nuc-splash.jpg)
 
 3. Boot the USB in **UEFI** mode when both UEFI and legacy appear.
 4. At GRUB, choose **Try or Install Ubuntu Server**.
 
-![GRUB — Try or Install Ubuntu Server](assets/install/02-grub.jpg)
+   ![GRUB — Try or Install Ubuntu Server](assets/install/02-grub.jpg)
 
 ## Subiquity choices
 

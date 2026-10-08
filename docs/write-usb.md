@@ -125,8 +125,7 @@ synced
     `dd` to a block device needs root. Run it in a normal terminal so `sudo` can
     prompt. Agent/CI shells without a TTY cannot enter that password for you.
 
-=== "balenaEtcher (optional)"
-
+!!! tip "balenaEtcher (optional)"
     If you prefer a GUI: [balenaEtcher](https://etcher.balena.io/) → select the
     ISO → select the USB → Flash. Still confirm you picked the stick, not the
     system drive.
