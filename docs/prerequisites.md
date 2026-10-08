@@ -2,7 +2,7 @@
 
 | Item | Detail |
 | --- | --- |
-| Target machine | x86_64 PC or NUC with internal disk; ~15 minutes once the stick is ready |
+| Target machine | x86_64 machine with internal disk; ~15 minutes once the stick is ready |
 | Display + keyboard | HDMI (or similar) and USB keyboard for install |
 | Network | Ethernet preferred; Wi‑Fi during install is OK |
 | USB stick | ≥ **4 GB** free (evidence pass used a **~29 GB** stick); contents erased |
